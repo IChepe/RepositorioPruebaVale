@@ -31,6 +31,7 @@ public class PracticaCasoEstudio {
         System.out.println(c);
         c.atender();
         System.out.println(c);
+        System.out.println(c);
         
 
 
